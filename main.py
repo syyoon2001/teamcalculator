@@ -1,1 +1,1 @@
-print(main)
+print("main") # ""추가
