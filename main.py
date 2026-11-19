@@ -4,6 +4,9 @@ print("우리 조 화이팅")
 print('내일 봐요')
 print()
 
+print("살려주세요")
+
 print("집가고 싶다..")
 print("진짜 마지막 수정")
 print("진짜 마지막 수정2")
+
