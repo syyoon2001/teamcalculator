@@ -10,3 +10,5 @@ print("머리 아파")
 
 print('경목')
 >>>>>>> e76ccb82ff06d5791ddefe3fc77eea1fdc49105e
+
+print("살려주세요")
